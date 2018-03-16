@@ -7,7 +7,7 @@
 give_name(sex = "female")
 }
 \arguments{
-\item{sex}{}
+\item{sex}{Gender}
 }
 \description{
 Title

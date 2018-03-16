@@ -1,6 +1,6 @@
 #' Title
 #'
-#' @param sex
+#' @param sex Gender
 #'
 #' @return
 #' @export
