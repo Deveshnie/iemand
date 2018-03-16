@@ -1,2 +1,3 @@
 ^iemand\.Rproj$
 ^\.Rproj\.user$
+^\.travis\.yml$
